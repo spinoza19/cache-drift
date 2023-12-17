@@ -1,4 +1,0 @@
-# cache-drift
-Commit 2
-Date: 2023-09-20T17:36:31Z
-Add core module
