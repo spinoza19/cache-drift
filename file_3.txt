@@ -1,4 +1,0 @@
-# cache-drift
-Commit 4
-Date: 2024-02-25T03:14:36Z
-Refactor helpers
